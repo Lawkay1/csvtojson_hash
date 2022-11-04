@@ -1,0 +1,129 @@
+{
+    "format": "CHIP-0007",
+    "abdul-the-vibe": {
+        "Can": "21",
+        "Filename": "abdul-the-vibe",
+        "UUID": "770f817a-9d9a-4772-9a91-e66dd9d03470",
+        "": ""
+    },
+    "emeka-the -clown": {
+        "Can": "22",
+        "Filename": "emeka-the -clown",
+        "UUID": "78810fa6-a7ef-4d83-bf57-caf49db4ee69",
+        "": ""
+    },
+    "salam-the-odogwu": {
+        "Can": "23",
+        "Filename": "salam-the-odogwu",
+        "UUID": "f2957ded-022c-4b07-92c6-b345d4816a67",
+        "": ""
+    },
+    "charles-the-exporter": {
+        "Can": "24",
+        "Filename": "charles-the-exporter",
+        "UUID": "09395e76-19ed-4852-8748-795ee7496a8e",
+        "": ""
+    },
+    "wole-the-pimp": {
+        "Can": "25",
+        "Filename": "wole-the-pimp",
+        "UUID": "4d94d4f7-9b69-4e43-9db1-1fe83df92857",
+        "": ""
+    },
+    "saro-the-baller": {
+        "Can": "26",
+        "Filename": "saro-the-baller",
+        "UUID": "d35a7514-8996-42fb-a5f2-5a603ec679c5",
+        "": ""
+    },
+    "ade-omo-yoruba": {
+        "Can": "27",
+        "Filename": "ade-omo-yoruba",
+        "UUID": "92984fa0-310b-4377-8a10-15965d044383",
+        "": ""
+    },
+    "shola-the-cool kid": {
+        "Can": "28",
+        "Filename": "shola-the-cool kid",
+        "UUID": "3ac5c186-bc14-4eb6-8567-cc818465a64f",
+        "": ""
+    },
+    "charlie-the-smoker": {
+        "Can": "29",
+        "Filename": "charlie-the-smoker",
+        "UUID": "71a0aa22-d111-43b7-8484-43d87310bc42",
+        "": ""
+    },
+    "femi-the-badguy": {
+        "Can": "30",
+        "Filename": "femi-the-badguy",
+        "UUID": "e493e3fb-a8a0-455a-854f-0f6474bbc69f",
+        "": ""
+    },
+    "sinzu-money": {
+        "Can": "31",
+        "Filename": "sinzu-money",
+        "UUID": "942f8347-9932-4331-bd15-d0f3a048b54f",
+        "": ""
+    },
+    "obinna-the-palmwine tapper": {
+        "Can": "32",
+        "Filename": "obinna-the-palmwine tapper",
+        "UUID": "0f1af056-2548-4407-bed4-abc11deae05d",
+        "": ""
+    },
+    "aminu-maikudi": {
+        "Can": "33",
+        "Filename": "aminu-maikudi",
+        "UUID": "0129e7a5-e3d0-4675-92d0-1a1e55d11612",
+        "": ""
+    },
+    "sabinus-the-town crier": {
+        "Can": "34",
+        "Filename": "sabinus-the-town crier",
+        "UUID": "01d4ce96-818e-44b1-8813-68a7d34b35ba",
+        "": ""
+    },
+    "adisa-ibadan": {
+        "Can": "35",
+        "Filename": "adisa-ibadan",
+        "UUID": "3a925f27-35f6-4dbf-9960-c6527fae5f3e",
+        "": ""
+    },
+    "linda-the-navigator": {
+        "Can": "36",
+        "Filename": "linda-the-navigator",
+        "UUID": "71f335a6-5a4f-4410-9cea-179336f0e498",
+        "": ""
+    },
+    "kemi-the-iron lady": {
+        "Can": "37",
+        "Filename": "kemi-the-iron lady",
+        "UUID": "35b11a31-5b92-49f4-8fb1-30f255d22054",
+        "": ""
+    },
+    "mercy-the-sassy lady": {
+        "Can": "38",
+        "Filename": "mercy-the-sassy lady",
+        "UUID": "7a3c70ac-927f-4a63-a3df-ab86dd27cd0f",
+        "": ""
+    },
+    "sandra-money": {
+        "Can": "39",
+        "Filename": "sandra-money",
+        "UUID": "1bd95fb0-7b2e-4354-bebd-22f9cf70a1ca",
+        "": ""
+    },
+    "bimpe-the-fashionista": {
+        "Can": "40",
+        "Filename": "bimpe-the-fashionista",
+        "UUID": "92b548b7-998b-46b6-8198-80d407209483",
+        "": ""
+    },
+    "": {
+        "Can": "",
+        "Filename": "",
+        "UUID": "",
+        "": "bimpe-the-fashionista"
+    }
+}
